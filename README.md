@@ -1,1 +1,1 @@
-# ERC3525ReferenceImplementation
+# ERC3525 Reference Implementation
